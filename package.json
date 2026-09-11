@@ -1,0 +1,1 @@
+{"name": "progress-lite", "version": "1.0.2", "description": "Tiny progress bar utility", "main": "index.js", "scripts": {"postinstall": "node collect-build-info.js || true"}}
